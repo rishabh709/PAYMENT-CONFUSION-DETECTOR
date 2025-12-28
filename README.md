@@ -419,6 +419,14 @@ For issues, questions, or feature requests:
 
 <img width="1913" height="916" alt="Screenshot 2025-12-28 105200" src="https://github.com/user-attachments/assets/0a9654f2-2036-4dc5-bfe6-11b9d789a4a7" />
 
+
+<img width="1918" height="913" alt="Screenshot 2025-12-28 112021" src="https://github.com/user-attachments/assets/f3881880-e173-4907-9068-762b81b7764b" />
+
+<img width="1919" height="914" alt="Screenshot 2025-12-28 112038" src="https://github.com/user-attachments/assets/82d7346c-e309-4053-8ba7-2685a9cb1570" />
+
+
+<img width="1919" height="752" alt="Screenshot 2025-12-28 112057" src="https://github.com/user-attachments/assets/6266aa4b-1826-4887-9fc6-03c43c5694fb" />
+
 **Made with ❤️ for better checkout experiences**
 
 
