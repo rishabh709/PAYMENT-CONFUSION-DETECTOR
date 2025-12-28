@@ -13,8 +13,8 @@ const GAZE_DOT_SIZE = 100;
 // Tracking thresholds
 const REVISIT_THRESHOLD = 2;  // Number of visits to trigger auto-expand
 const STRUGGLE_DWELL_TIME = 5000; // Dwell time threshold for struggle
-const EXTERNAL_HELP_TIME = 600000;
-const CHARGES_DWELL_TIME = 2500; // Dwell (ms) required to auto-expand charges
+const EXTERNAL_HELP_TIME = 15000;
+const CHARGES_DWELL_TIME = 3000; // Dwell (ms) required to auto-expand charges
 
 /**********************************************************
  * STATE
@@ -188,7 +188,7 @@ function resetInactivityTimer() {
         if (!escalationShown) {
             document.getElementById("escalateButton").classList.remove("hidden");
             escalationShown = true;
-            console.log("[ESCALATION] User inactive for 10 minutes. Showing chat option.");
+            console.log("[ESCALATION] User inactive for 15 seconds. Showing chat option.");
         }
     }, EXTERNAL_HELP_TIME);
 }
@@ -689,4 +689,3 @@ function setupActivityListeners() {
             toggleCharges();
         });
     }
-
